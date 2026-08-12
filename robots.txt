@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://offset25.github.io/snippets-kt28i1/sitemap.xml
